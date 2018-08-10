@@ -1,0 +1,20 @@
+{
+  "name": "mypackage",
+  "authors": [
+    "Sai Laoh Sang <sailaohsang@aceplussolutions.com>"
+  ],
+  "description": "Bower Package Test",
+  "main": "app.js",
+  "keywords": [
+    "yyjj"
+  ],
+  "license": "MIT",
+  "homepage": "index.html",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "security-holder": "botstrap#*",
+    "underscore": "^1.9.1"
+  }
+}
